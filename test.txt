@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0CC0-AAB4
+
+ Directory of C:\Users\My\Downloads\mygit project
+
+03/21/2017  11:46 AM    <DIR>          .
+03/21/2017  11:46 AM    <DIR>          ..
+03/21/2017  11:46 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  151,099,813,888 bytes free
